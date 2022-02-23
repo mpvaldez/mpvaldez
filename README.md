@@ -33,9 +33,11 @@
 
 <p>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+    <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white">
+    <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white">
