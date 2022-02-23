@@ -5,6 +5,11 @@
 - Partidario del acceso libre y desarrollo open source.
 - Antropologia 
 
+
+---
+[![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&hide=stars,issues&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
+
+---
 ### Lenguajes
 
 <p>
@@ -28,15 +33,17 @@
 
 <p>
     <a><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green"></a>
-    <a><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575.svg?logo=material-design&logoColor=white"></a>
-    <a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
-    <a><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github%20actions&logoColor=white"></a>
-    <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
     <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"></a>
     <a><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"></a>
     <a><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a></a>
+    <a><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+    <a><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"></a>
+    <a><img alt="Strapi" src="https://img.shields.io/badge/Strapi-2F2E8B.svg?logo=strapi&logoColor=white"></a>
+    <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575.svg?logo=material-design&logoColor=white"></a>
+    <a><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
 ### Databases
@@ -46,6 +53,7 @@
     <a><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
     <a><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a><img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 ### Cloud and tools
@@ -84,8 +92,4 @@
     <a><img alt="GNULinux" src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"></a>       
 
 </p>
-
----
-[![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&hide=stars,issues&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
-
 
