@@ -71,9 +71,10 @@
     <a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
     <a><img alt="Amazons3" src="https://img.shields.io/badge/AmazonS3-569A31.svg?logo=amazons3&logoColor=white"></a>         
-    <a><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
     <a><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a><img alt="RaspberryPi" src="https://img.shields.io/badge/RaspberryPi-A22846.svg?logo=raspberryPi&logoColor=white"></a>
+    <a><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 
 </p>
 
