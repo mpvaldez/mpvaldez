@@ -71,7 +71,6 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="Amazonaws" src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?logo=amazonaws&logoColor=white">        
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Amazons3" src="https://img.shields.io/badge/AmazonS3-569A31.svg?logo=amazons3&logoColor=white">         
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white">
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
