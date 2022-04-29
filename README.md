@@ -1,9 +1,10 @@
 🦊 Pano Valdez
 ===
 
-- Desarrollador de software & SysAdmin
-- Partidario del acceso libre y desarrollo open source.
-- Antropologia 
+- Progrmador & SysAdmin
+- Partidario del acceso libre, gobierno abierto y desarrollo open source.
+- Estudiante de Antropologia (UNSa) 
+- Músico y Live Coder
 
 
 ---
