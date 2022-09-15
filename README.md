@@ -1,7 +1,7 @@
 🦊 Pano Valdez
 ===
 
-- Progrmador & SysAdmin
+- Progrmador & DevOps
 - Partidario del acceso libre, gobierno abierto y desarrollo open source.
 - Estudiante de Antropologia (UNSa) 
 - Músico y Live Coder
