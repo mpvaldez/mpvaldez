@@ -7,7 +7,6 @@
 - Músico y Live Coder
 
 
-![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS)
 <!-- 
 [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&hide=stars,issues&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
 
@@ -102,3 +101,4 @@
 
 </p>
 
+![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS)
