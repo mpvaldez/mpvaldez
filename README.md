@@ -2,16 +2,14 @@
 ===
 
 - Progrmador & DevOps
-- Partidario del acceso libre, gobierno abierto y desarrollo open source.
-- Estudiante de Antropologia (UNSa) 
+- Antropología digital
+- Acceso libre y desarrollo de código abierto.
 - Músico y Live Coder
 
 
-<!-- ---
 [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&hide=stars,issues&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpvaldez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 
 ---
