@@ -3,7 +3,7 @@
 
 - Progrmador & DevOps
 - Antropología digital
-- Acceso libre y desarrollo de código abierto.
+- Software Libre y Estado Abierto.
 - Músico y Live Coder
 
 
