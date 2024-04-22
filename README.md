@@ -15,9 +15,10 @@
 
 ## 📖 Proyectos de código abierto
 
-- 🧮 Co-creador de la librería de software libre [PyEPH](https://github.com/institutohumai/pyeph)
+- 🧮 Co-creador de [PyEPH](https://github.com/institutohumai/pyeph)
 - ⚖️ Coordinador de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
 - 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/) 
+
 
 
 <!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
