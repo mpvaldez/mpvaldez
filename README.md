@@ -1,10 +1,8 @@
 🦊 Pano Valdez
 ===
 
-🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube. También mentoreo a mi gente
-
+🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube. También mentoreo a mi gente.
 📖 Diplomado en Antropología Digital (UNTREF).
-
 🎶 Músico
 
 ## 💻 Actualmente
@@ -16,7 +14,7 @@
 ## 📖 Proyectos de código abierto
 
 - 🧮 Co-creador de la librería de software libre [pyeph](https://github.com/institutohumai/pyeph)
-- 🧾 Co-creador de AdminSmart [AdminSmart](https://github.com/adminSmartLab/) 
+- 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/) 
 
 
 <!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
