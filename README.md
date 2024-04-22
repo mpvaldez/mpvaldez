@@ -7,7 +7,7 @@
 
 🎶 Músico
 
-## 💻 Actualmente
+## 📌 Actualmente
 
 - 🚀 Trabajo como coordinador de tecnología en [Democracia en Red](https://democraciaenred.org/)
 - ☁️ SRE en [Reflejar](https://reflej.ar/)
