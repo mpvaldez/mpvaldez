@@ -1,14 +1,25 @@
 🦊 Pano Valdez
 ===
 
-- Progrmador & DevOps
-- Antropología digital
-- Acceso libre y desarrollo de código abierto.
-- Músico y Live Coder
+🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube. También mentoreo a mi gente
+
+📖 Diplomado en Antropología Digital (UNTREF).
+
+🎶 Músico
+
+## 💻 Actualmente
+
+- 🚀 Trabajo como coordinador de tecnología en [Democracia en Red](https://democraciaenred.org/)
+- ☁️ SRE en [Reflejar](https://reflej.ar/)
+- ☁️ SRE en [AdminSmart](https://admin-smart.com/)
+
+## 📖 Proyectos de código abierto
+
+- 🧮 Co-creador de la librería de software libre [pyeph](https://github.com/institutohumai/pyeph)
+- 🧾 Co-creador de AdminSmart [AdminSmart](https://github.com/adminSmartLab/) 
 
 
-<!-- 
-[![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&hide=stars,issues&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
+<!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpvaldez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -101,4 +112,4 @@
 
 </p>
 
-![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS)
+<!-- ![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS) -->
