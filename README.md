@@ -2,7 +2,9 @@
 ===
 
 🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube. También mentoreo a mi gente.
+
 📖 Diplomado en Antropología Digital (UNTREF).
+
 🎶 Músico
 
 ## 💻 Actualmente
