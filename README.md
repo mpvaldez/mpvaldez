@@ -30,8 +30,7 @@
 ### Lenguajes
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?lo, un sistema de gestión administrativa y contable y gestión de smart cities.
-- Co-creador dego=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
