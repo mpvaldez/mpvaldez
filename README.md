@@ -113,8 +113,4 @@
 
 </p>
 
-<<<<<<< HEAD
 <!-- ![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS) -->
-=======
-![views](https://komarev.com/ghpvc/?username=mpvaldez&style=flat-square&label=VIEWS)
->>>>>>> 24c051de9ce5e4d433eeaf7b0fc3ad21b656128c
