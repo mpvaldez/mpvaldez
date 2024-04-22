@@ -16,6 +16,7 @@
 ## 📖 Proyectos de código abierto
 
 - 🧮 Co-creador de la librería de software libre [pyeph](https://github.com/institutohumai/pyeph)
+- ⚖️ Coordinador de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
 - 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/) 
 
 
