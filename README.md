@@ -10,8 +10,8 @@
 ## 📌 Actualmente
 
 - 🚀 Trabajo como coordinador de tecnología en [Democracia en Red](https://democraciaenred.org/)
-- ☁️ SRE en [Reflejar](https://reflej.ar/)
-- ☁️ SRE en [AdminSmart](https://admin-smart.com/)
+- ☁️ Sysadmin en [Reflejar](https://reflej.ar/)
+- ☁️ Sysadmin en [AdminSmart](https://admin-smart.com/)
 
 ## 📖 Proyectos de código abierto
 
