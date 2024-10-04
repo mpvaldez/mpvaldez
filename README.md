@@ -1,15 +1,10 @@
-🦊 Pano Valdez
-===
+# 🦊 Pano Valdez
 
-🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube. También mentoreo a mi gente.
-
-📖 Diplomado en Antropología Digital (UNTREF).
-
-🎶 Músico
+🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube.
 
 ## 📌 Actualmente
 
-- 🚀 Trabajo como coordinador de tecnología en [Democracia en Red](https://democraciaenred.org/)
+- 🚀 Coordinador de comunidad tecnológica en [Democracia en Red](https://democraciaenred.org/)
 - ☁️ Sysadmin en [Reflejar](https://reflej.ar/)
 - ☁️ Sysadmin en [AdminSmart](https://admin-smart.com/)
 
@@ -17,16 +12,14 @@
 
 - 🧮 Co-creador de [PyEPH](https://github.com/institutohumai/pyeph)
 - ⚖️ Mantenedor de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
-- 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/) 
-
-
+- 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/)
 
 <!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpvaldez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
 ---
+
 ### Lenguajes
 
 <p>
@@ -75,7 +68,6 @@
     <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
 </p>
 
-
 ### Cloud and tools
 
 <p>
@@ -98,9 +90,7 @@
 
 </p>
 
-
 ### OS
-
 
 <p>
     <img alt="Debian" src="https://img.shields.io/badge/Debian-red?logo=debian&logoColor=white">
@@ -110,7 +100,7 @@
     <img alt="ParrotOS" src="https://img.shields.io/badge/ParrotOS-54deff?logo=linux&logoColor=black">    
     <img alt="CentOS" src="https://img.shields.io/badge/CentOS-violet?logo=centos&logoColor=white">
     <img alt="GNULinux" src="https://img.shields.io/badge/GNULinux-white?logo=gnu&logoColor=black">       
-    <img alt="GNULinux" src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white">       
+    <img alt="GNULinux" src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white">
 
 </p>
 
