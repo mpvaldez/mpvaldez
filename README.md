@@ -1,10 +1,10 @@
-# 🦊 Pano Valdez
+# 🦊 Pano
 
 🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube.
 
 ## 📌 Actualmente
 
-- 🚀 Coordinador de comunidad tecnológica en [Democracia en Red](https://democraciaenred.org/)
+- 🚀 Coordinador del área tecnológica en [Democracia en Red](https://democraciaenred.org/)
 - ☁️ Sysadmin en [Reflejar](https://reflej.ar/)
 - ☁️ Sysadmin en [AdminSmart](https://admin-smart.com/)
 
