@@ -1,6 +1,12 @@
 # 🦊 Pano
 
-🖥️ Programo, armo infraestructuras y consultoreo sobre aplicaciones web y computación en la nube.
+Combino tecnologías de información con problemáticas sociales, explorando áreas clave como: Democracia Digital, Estado Abierto, Desinformación, Análisis y Visualización de datos, Etnografía Digital, Infraestructuras Digitales.
+
+Promuevo y desarrollo incansablemente soluciones basadas en Software Libre como una alternativa ética y sostenible en la construcción de tecnología. Además, me dedico a profundizar en la seguridad de la información, con el objetivo de garantizar que las soluciones digitales protejan la privacidad de las personas.
+
+> I combine information technologies with social issues, exploring key areas such as: Digital Democracy, Open Government, Disinformation, Data Analysis and Visualization, Digital Ethnography, and Digital Infrastructures.
+> 
+> I tirelessly promote and develop Free Software-based solutions as an ethical and sustainable alternative for building technology. Additionally, I focus on deepening information security to ensure that digital solutions protect people's privacy.
 
 ## 📌 Actualmente
 
@@ -11,7 +17,7 @@
 ## 📖 Proyectos de código abierto
 
 - 🧮 Co-creador de [PyEPH](https://github.com/institutohumai/pyeph)
-- ⚖️ Mantenedor de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
+- ⚖️ Mantainer de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
 - 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/)
 
 <!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
