@@ -17,7 +17,7 @@ Promuevo y desarrollo incansablemente soluciones basadas en Software Libre como 
 ## 📖 Proyectos de código abierto
 
 - 🧮 Co-creador de [PyEPH](https://github.com/institutohumai/pyeph)
-- ⚖️ Mantainer de [DemocracyOS](https://github.com/DemocraciaEnRed/consultas-digitales)
+- ⚖️ Mantainer del ecosistema [DemocracyOS](https://github.com/DemocraciaEnRed)
 - 🧾 Co-creador de [AdminSmart](https://github.com/adminSmartLab/)
 
 <!-- [![mpvaldez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpvaldez&theme=tokyonight&count_private=true)](https://github.com/mpvaldez)
